@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Lilygo_T7-S3")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/Lilygo_T7-S3.kicad_sym")(options "")(descr ""))
+  (lib (name "VL6180X")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/VL6180X.kicad_sym")(options "")(descr ""))
+)
