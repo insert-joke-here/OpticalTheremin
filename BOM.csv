@@ -1,6 +1,8 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-VL6180X ToF Distance Sensor,1,Adafruit,$13.95,$13.95,https://www.adafruit.com/product/3316
+VL6180X ToF Distance Sensor,1,Digikey,$13.95,$13.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/3316/6569763?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4ArAEwIC6AvvYVWSAMxtgBsIDQA
 MAX98357A Amplifier,1,Adafruit,$5.95,$5.95,https://www.adafruit.com/product/3006
 Mono Speaker,1,Adafruit,$3.95,$3.95,https://www.adafruit.com/product/4445
-LILYGO T7-S3,1,Lilygo,$0.00,$0.00,https://lilygo.cc/products/t7-s3
-Estimated total shipping,1,,,$0.00,
+LILYGO T7-S3,1,Lilygo,$7.93,$7.93,https://lilygo.cc/products/t7-s3
+PCB board,1,JLCPCB,$11.44,$11.44,https://jlcpcb.com
+Potentiometers,3,Digikey,$1.84,$5.52,https://www.digikey.com/en/products/detail/bourns-inc/PTA1543-2010CIB103/3781161
+Estimated total shipping,1,,,$6.90,
